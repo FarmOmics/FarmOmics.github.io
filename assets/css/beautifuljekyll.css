@@ -38,16 +38,16 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 h2 {
-  font-size: 1.4rem;
+  font-size: 1.8rem;
 }
 h3 {
-  font-size: 1.3rem;
+  font-size: 1.6rem;
 }
 h4 {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
 h1, h2, h3, h4 {
   margin-top: 1.2rem;
@@ -384,7 +384,7 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 0.5rem 0;
+  padding: 0.1rem 0;
   border-top: 0.5px #EAEAEA solid;
   margin-top: 2rem;
   font-size: 0.8rem;
@@ -532,7 +532,7 @@ footer .footer-custom-content {
 @media (max-width: 1200px) {
   .post-preview .post-image {
     height: 9rem;
-    width: 9rem;
+    width: 18rem;
   }
   .post-preview .post-image-short {
     margin-top: 0;
@@ -545,8 +545,8 @@ footer .footer-custom-content {
   display: none;
 }
 .post-preview .post-image-small img {
-  max-width: 2rem;
-  max-height: 2rem;
+  max-width: 12rem;
+  max-height: 12rem;
 }
 @media (max-width: 500px) {
   .post-preview .post-image {
