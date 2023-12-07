@@ -30,7 +30,7 @@ body > main {
 }
 p {
   line-height: 1.5;
-  margin: 1rem 0;
+  margin: 0.1rem 0;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Arial';
@@ -67,9 +67,9 @@ blockquote p:first-child {
   margin-top: 0;
 }
 hr.small {
-  max-width: 2rem;
-  margin: 0.2rem;
-  border-width: 0.2rem;
+  max-width: 0.1rem;
+  margin: 0rem;
+  border-width: 0.1rem;
   border-color: inherit;
   border-radius: 0.1875rem;
 }
@@ -110,7 +110,7 @@ img {
 }
 
 .linked-section {
-  padding-top: 3.75rem;
+  padding-top: 2rem;
   margin-top: -1.5625rem;
 }
 
